@@ -4,7 +4,7 @@
 - **Question that I chose from the memoization exercise:** Cutting rod
 - **Link to the question article:** [Paste the URL to the question article]
 - **My solution:**
-/*
+```c /*
  * CS 211 - Module 07b Lecture Activity, Part 1: Memoization
  * Problem: Cutting a Rod
  *
